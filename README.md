@@ -1,3 +1,3 @@
 # Webpage
 
-www.mushroom-matthew.com
+mushroom-matthew.com
