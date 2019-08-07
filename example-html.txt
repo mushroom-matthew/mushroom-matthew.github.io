@@ -1,0 +1,72 @@
+   <h2 class="heading">News</h2>
+            <blockquote class="embedly-card"><h4><a href="https://www.wsj.com/articles/brain-scans-can-detect-who-has-better-skills-1538589600?mod=hp_featst_pos1">Brain Scans Can Detect Who Has Better Skills</a></h4><p>Researchers leveraging advanced scanning technologies found they could identify novice from experienced surgeons by analyzing brain scans taken as the physicians worked.</p></blockquote>
+            <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
+            <blockquote class="embedly-card"><h4><a href="https://www.scpr.org/programs/airtalk/2018/10/10/63774/new-study-uses-brain-activity-to-evaluate-skills-w/">New study uses brain activity to evaluate skills, we discuss the ethical implications</a></h4><p>About AirTalk® Join KPCC's AirTalk with host Larry Mantle weekdays for lively and in-depth discussions of city news, politics, science, the arts, entertainment, and more. Call-in number: 866-893-5722 A new study published last Wednesday in the journal Science Advances shows how skilled surgical practitioners exhibit different brain activities from unskilled practitioners.</p></blockquote>
+            <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
+            <blockquote class="embedly-card"><h4><a href="https://www.cbc.ca/radio/quirks/oct-6-2018-canada-s-newest-nobel-laureate-reading-surgeons-minds-sniffing-out-shark-water-and-more-1.4850312/researchers-are-reading-doctors-brains-to-see-how-good-they-are-at-surgery-1.4850339">Researchers are reading doctors' brains to see how good they are at surgery | CBC Radio</a></h4><p>Using a brain imaging method called "functional near-infrared spectroscopy," researchers were able to see the activity of different regions of the brain while a surgeon performed a simulated surgery, and use patterns of that activity to evaluate their level of expertise. Dr. Arun Nemani developed this idea in his Ph.D research in biomedical engineering at Rensselaer Polytechnic Institute.</p></blockquote>
+            <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
+            <blockquote class="embedly-card"><h4><a href="https://www.vice.com/en_nz/article/9k7mva/a-third-of-gluten-free-foods-in-us-restaurants-contain-gluten">Sometimes Your Brain Goes Back in Time and Changes What it Perceived</a></h4><p>Transparent skull in doctor's office A new brain scan can tell the difference between good surgeons and inexperienced ones Prominent heart surgeon David Sabiston, who performed an early coronary bypass operation in the 1960s, led a surgical training program at Duke known colloquially as "Decade with Dave."</p></blockquote>
+            <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
+        <!-- End .optional-section-block -->
+    <!-- </div> 
+    <!-- End .optional-section -->
+
+    <!-- <div id="publications" class="optional-section background-alt">
+        <h2 class="heading">Publications</h2>
+        <p>
+            Full list of publications on <a href="https://scholar.google.com/citations?user=x1AaAyMAAAAJ&hl=en">Google scholar</a>
+        </p>
+        <div class="optional-section-block">
+            <h3>Assessing bimanual motor skills with optical neuroimaging</h3>
+            <p>
+                <strong>A Nemani</strong>, M Yücel, U Kruger, D Gee, C Cooper, S Schwaitzberg, S De, X Intes
+                <br>
+                <font color="red"><i>Science Advances</i></font> (2018) 4 , eaat3807.
+                <br>
+                Impact factor: 11.51
+            </p>
+
+            <h3>Objective assessment of surgical skill transfer using non-invasive brain imaging</h3>
+            <p>
+                <strong>A Nemani</strong>, U Kruger, C Cooper, S Schwaitzberg, X Intes, S De
+                <br>
+                <i>Surgical endoscopy</i> (2018), In press.
+                <br>
+                Impact factor: 3.747
+            </p>
+
+            <h3>Noninvasive Brain Imaging Demonstrates that Surgical Skills Transfer from Training Simulators to Ex Vivo Models</h3>
+            <p>
+                <strong>A Nemani</strong>, C Cooper, X Intes, S De, S Schwaitzberg
+                <br>
+                <i>JACS</i> (2017) 225 , e22.
+                <br>
+                Impact factor: 5.122
+            </p>
+
+            <h3>Monte Carlo based simulation of sensitivity curvature for evaluating optimal probe geometry</h3>
+            <p>
+                <strong>A Nemani</strong>, X Intes, S De
+                <br>
+                <i>Biomedical Optics</i> (2014), BM3A. 36.
+                <br>
+                Impact factor: 2.859
+            </p>
+
+            <h3>Resonance in the mouse tibia as a predictor of frequencies and locations of loading-induced bone formation</h3>
+            <p>
+                L Zhao, T Dodge, <strong>A Nemani</strong>, H Yokota
+                <br>
+                <i>Biomech. Model. Mechanobiol</i> (2014) 13, 141-151
+                <br>
+                Impact factor: 3.323
+            </p>
+        </div>
+        <!-- End .optional-section-block -->
+
+    <!-- </div>
+    <!-- End .optional-section -->
